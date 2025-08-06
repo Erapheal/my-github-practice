@@ -2,7 +2,7 @@
 github practice
 
 #CONTRIBUTORS
-EJIDIKE MICHAEL
+ERAPHEAL
 EMAIL[MY-EMAIL](erapheal121@gmail.com)
 MR MUBARAQ
 GITHUB[GITHUB-ACCOUNT](http://github.com/mubarraqqq)
